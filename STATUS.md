@@ -1,0 +1,3 @@
+# Status
+
+fishid-status: eyJhcHAiOiJmaXNoaWQiLCJzdGF0ZSI6ImFjdGl2ZSIsInNlcSI6MTc5NDA1ODI2MH0.MEYCIQCbtkDiO87RdQ0QI9eSHtcmkzsKpFXkrNpCX0tkVBPXQQIhALvobti2Tj2WooAW-f2QBHo5ka1TLCjbd8e9jnnA3zfh
